@@ -1,4 +1,4 @@
-MY TEAM PRINTF PROJECT
+MY TEAM PRINTF PROJECT - lomole and Scott-cityboy.
 
 Write a function that produces output according to a format.
 
